@@ -11,6 +11,7 @@ A blazing fast command line note taking app written in python.
 - ⌨️ Custom keybindings for keyboard-focused navigation
 - 🔍 Search functionality for notes and todos
 - 📊 Simple, clean terminal UI
+  
 
 ## Installation
 
