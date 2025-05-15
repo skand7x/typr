@@ -1,6 +1,3 @@
-## Note: DO not install it right now because there are some bugs that need to be fixed asap.
-- Everything will be fixed within 24 hours
-
 # TYPR
 A blazing fast command line note taking app written in python.
 
@@ -26,7 +23,7 @@ A blazing fast command line note taking app written in python.
    ```
 3. Run the install script:
    ```
-   cd typr-release
+   cd typr
    ./install.sh
    ```
 
