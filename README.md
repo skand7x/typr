@@ -16,7 +16,7 @@ A blazing fast command line note taking app written in python.
 ## Installation
 
 1. Download the tar.gz file.
-2. Clone this repository:
+2. Open the terminal:
    ```
    cd /path/to/download/folder
    tar -xf TYPR-linux-x86_64.tar.gz
