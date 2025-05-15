@@ -67,7 +67,7 @@ All notes and todo lists are stored as JSON files in:
 - curses (usually comes with Python on Unix-like systems)
 - For Windows users, you'll need to install `windows-curses`:
   ```
-  pip install -r requirements.txt
+  pip install windows-curses
   ```
 
 ### Editing:
